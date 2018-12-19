@@ -1,4 +1,3 @@
-#CS530Assignment2
 Author: Josh Corona
 
 This program implements a multithreaded psuedoprime number finder that uses the GMP library.
@@ -27,7 +26,7 @@ prog2_1.c:
 -------------------------------------------------------------------------------------------------
 	This file defines all the functions located in prog2_1.h. The functions are thread-safe so
 	when nodes are inserted/removed, only one thread can access variables and perfrom operations 
-	at any given time. This is to ensure that multiple threads only acces the critical region one
+	at any given time. This is to ensure that multiple threads only access the critical region one
 	at a time.
 -------------------------------------------------------------------------------------------------
 prog2_2.c:
